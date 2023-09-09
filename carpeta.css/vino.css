@@ -1,0 +1,88 @@
+body {
+  margin: 0;
+  color: whitesmoke;
+}
+.sect {
+  width: 100%;
+  min-height: 500px;
+}
+#sect1,#sect2,
+#sect3 {
+
+  background-color: #3333337d;
+  color: #fff;
+  content: absolute;
+}
+#sect4{
+ background-image: url(https://mui.kitchen/__export/1662044699459/sites/muikitchen/img/2022/09/01/portada-cerveza-1200x814.jpg_1942732087.jpg);
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-position: absolute;
+}
+#sect3{
+  background-image: url(https://vinoselcielo.com/cdn/shop/products/terraza3_400x.jpg?v=1662401259);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: absolute;
+}
+#sect2 {
+
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Traditional_wine_bottle_sizes_Bodegas_Casajus_Ribera_del_Duero.jpg/800px-Traditional_wine_bottle_sizes_Bodegas_Casajus_Ribera_del_Duero.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: absolute;
+
+}
+#sect7{
+  background-image: url(https://e1.pxfuel.com/desktop-wallpaper/962/246/desktop-wallpaper-liquor-group-with-48-items-scotch.jpg)
+}
+#sect1 {
+  position: relative;
+  overflow: hidden;
+}
+video {
+  position: fixed;
+  left: 30px;
+  top: 0;
+  height: 150%;
+  z-index: -1;
+}
+h1 {
+  margin: 0;
+  padding-top: 3rem;
+  padding-left: 2rem;
+}
+h2 {
+  margin: 0;
+  padding-top: 3rem;
+  padding-left: 2rem;
+}
+
+#sect3{
+  image{
+    width: 30;
+    height: 30;
+  }
+}
+listas{
+  content: color="white";
+}
+p{
+  background-color: ;
+  text-align: center;
+}
+form{
+  border: 2px black solid;
+  box-shadow: 0 0 8px 2px white;
+  padding: 30px;
+  width: 200px;
+}
+#sect9{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1IQabt1OjCHrDC4xA1VhGvr2vUQuIEFE2sg&usqp=CAU);
+}
+#sect5{
+  background-image: url(https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/e4/6d/fe/excelente-ambiente-lleno.jpg?w=300&h=300&s=1);
+}
+button form{
+  background-color: darkblue;
+}
